@@ -1,0 +1,211 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Sümeyra Mızrak\\source\\repos\\Teleperformance.Odev4\\ServiceCollectionExtensions\\ServiceCollectionExtensions.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Sümeyra Mızrak\\source\\repos\\Teleperformance.Odev4\\ServiceCollectionExtensions\\ServiceCollectionExtensions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sümeyra Mızrak\\source\\repos\\Teleperformance.Odev4\\ServiceCollectionExtensions\\ServiceCollectionExtensions.csproj",
+        "projectName": "ServiceCollectionExtensions",
+        "projectPath": "C:\\Users\\Sümeyra Mızrak\\source\\repos\\Teleperformance.Odev4\\ServiceCollectionExtensions\\ServiceCollectionExtensions.csproj",
+        "packagesPath": "C:\\Users\\Sümeyra Mızrak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sümeyra Mızrak\\source\\repos\\Teleperformance.Odev4\\ServiceCollectionExtensions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sümeyra Mızrak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Sümeyra Mızrak\\source\\repos\\Teleperformance.Odev4\\Teleperformance.Odev4.Common\\Teleperformance.Odev4.Common.csproj": {
+                "projectPath": "C:\\Users\\Sümeyra Mızrak\\source\\repos\\Teleperformance.Odev4\\Teleperformance.Odev4.Common\\Teleperformance.Odev4.Common.csproj"
+              },
+              "C:\\Users\\Sümeyra Mızrak\\source\\repos\\Teleperformance.Odev4\\Teleperformance.Odev4.Data\\Teleperformance.Odev4.Data.csproj": {
+                "projectPath": "C:\\Users\\Sümeyra Mızrak\\source\\repos\\Teleperformance.Odev4\\Teleperformance.Odev4.Data\\Teleperformance.Odev4.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Sümeyra Mızrak\\source\\repos\\Teleperformance.Odev4\\Teleperformance.Odev4.Common\\Teleperformance.Odev4.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sümeyra Mızrak\\source\\repos\\Teleperformance.Odev4\\Teleperformance.Odev4.Common\\Teleperformance.Odev4.Common.csproj",
+        "projectName": "Teleperformance.Odev4.Common",
+        "projectPath": "C:\\Users\\Sümeyra Mızrak\\source\\repos\\Teleperformance.Odev4\\Teleperformance.Odev4.Common\\Teleperformance.Odev4.Common.csproj",
+        "packagesPath": "C:\\Users\\Sümeyra Mızrak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sümeyra Mızrak\\source\\repos\\Teleperformance.Odev4\\Teleperformance.Odev4.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sümeyra Mızrak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Sümeyra Mızrak\\source\\repos\\Teleperformance.Odev4\\Teleperformance.Odev4.Data\\Teleperformance.Odev4.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sümeyra Mızrak\\source\\repos\\Teleperformance.Odev4\\Teleperformance.Odev4.Data\\Teleperformance.Odev4.Data.csproj",
+        "projectName": "Teleperformance.Odev4.Data",
+        "projectPath": "C:\\Users\\Sümeyra Mızrak\\source\\repos\\Teleperformance.Odev4\\Teleperformance.Odev4.Data\\Teleperformance.Odev4.Data.csproj",
+        "packagesPath": "C:\\Users\\Sümeyra Mızrak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sümeyra Mızrak\\source\\repos\\Teleperformance.Odev4\\Teleperformance.Odev4.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sümeyra Mızrak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance Ödev-Sümeyra\Teleperformance.Odev4\Teleperformance.Odev5.Consumer\bin\Debug\net6.0\Teleperformance.Odev5.Consumer.exe
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance Ödev-Sümeyra\Teleperformance.Odev4\Teleperformance.Odev5.Consumer\bin\Debug\net6.0\Teleperformance.Odev5.Consumer.deps.json
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance Ödev-Sümeyra\Teleperformance.Odev4\Teleperformance.Odev5.Consumer\bin\Debug\net6.0\Teleperformance.Odev5.Consumer.runtimeconfig.json
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance Ödev-Sümeyra\Teleperformance.Odev4\Teleperformance.Odev5.Consumer\bin\Debug\net6.0\Teleperformance.Odev5.Consumer.dll
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance Ödev-Sümeyra\Teleperformance.Odev4\Teleperformance.Odev5.Consumer\bin\Debug\net6.0\Teleperformance.Odev5.Consumer.pdb
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance Ödev-Sümeyra\Teleperformance.Odev4\Teleperformance.Odev5.Consumer\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance Ödev-Sümeyra\Teleperformance.Odev4\Teleperformance.Odev5.Consumer\obj\Debug\net6.0\Teleperformance.Odev5.Consumer.csproj.AssemblyReference.cache
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance Ödev-Sümeyra\Teleperformance.Odev4\Teleperformance.Odev5.Consumer\obj\Debug\net6.0\Teleperformance.Odev5.Consumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance Ödev-Sümeyra\Teleperformance.Odev4\Teleperformance.Odev5.Consumer\obj\Debug\net6.0\Teleperformance.Odev5.Consumer.AssemblyInfoInputs.cache
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance Ödev-Sümeyra\Teleperformance.Odev4\Teleperformance.Odev5.Consumer\obj\Debug\net6.0\Teleperformance.Odev5.Consumer.AssemblyInfo.cs
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance Ödev-Sümeyra\Teleperformance.Odev4\Teleperformance.Odev5.Consumer\obj\Debug\net6.0\Teleperformance.Odev5.Consumer.csproj.CoreCompileInputs.cache
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance Ödev-Sümeyra\Teleperformance.Odev4\Teleperformance.Odev5.Consumer\obj\Debug\net6.0\Teleperformance.Odev5.Consumer.csproj.CopyComplete
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance Ödev-Sümeyra\Teleperformance.Odev4\Teleperformance.Odev5.Consumer\obj\Debug\net6.0\Teleperformance.Odev5.Consumer.dll
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance Ödev-Sümeyra\Teleperformance.Odev4\Teleperformance.Odev5.Consumer\obj\Debug\net6.0\refint\Teleperformance.Odev5.Consumer.dll
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance Ödev-Sümeyra\Teleperformance.Odev4\Teleperformance.Odev5.Consumer\obj\Debug\net6.0\Teleperformance.Odev5.Consumer.pdb
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance Ödev-Sümeyra\Teleperformance.Odev4\Teleperformance.Odev5.Consumer\obj\Debug\net6.0\Teleperformance.Odev5.Consumer.genruntimeconfig.cache
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance Ödev-Sümeyra\Teleperformance.Odev4\Teleperformance.Odev5.Consumer\obj\Debug\net6.0\ref\Teleperformance.Odev5.Consumer.dll

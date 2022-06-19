@@ -1,0 +1,86 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Teleperformance.Odev5", "Teleperformance.Odev4\Teleperformance.Odev5.csproj", "{7E0D80D7-A010-4780-9381-78EEC3F1B1AF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{27893BA7-6132-467E-80D5-7C9FF9C0A8A4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Teleperformance.Odev4.Common", "Teleperformance.Odev4.Common\Teleperformance.Odev4.Common.csproj", "{767F1CC6-4068-4FFC-B389-9F1B72B81DA0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{FC209AC6-7478-4992-89A7-4E1918B505F2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Teleperformance.Odev4.Data", "Teleperformance.Odev4.Data\Teleperformance.Odev4.Data.csproj", "{80E67494-63D4-4105-BA0B-67F2E5FF75B4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Teleperformance.Odev4.Entity", "Teleperformance.Odev4.Entity\Teleperformance.Odev4.Entity.csproj", "{D352DA65-142E-4A49-ABAA-2AE702BC8A69}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{4C5BC88D-D5C9-4FA6-9189-36684803EBD6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Teleperformance.Odev4.Services", "Teleperformance.Odev4.Services\Teleperformance.Odev4.Services.csproj", "{A4705695-2AD9-4DCC-97EB-B69A4275EADD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Api", "Api", "{482B861E-A75D-4AB9-94A1-1EF5B3EFF36A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_Docs", "_Docs", "{FDBB88FA-CF2E-4FF9-99C5-FE3CDF34717B}"
+	ProjectSection(SolutionItems) = preProject
+		Help.txt = Help.txt
+		Homework.txt = Homework.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BackGround Service", "BackGround Service", "{B199CE3A-AA31-43C0-878F-CFAB33B71F62}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Teleperformance.Odev5.SendEmailServis", "Teleperformance.Odev5.SendEmailServis\Teleperformance.Odev5.SendEmailServis.csproj", "{9DFC4769-4950-4DF0-A39C-045130661957}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teleperformance.Odev5.Consumer", "Teleperformance.Odev5.Consumer\Teleperformance.Odev5.Consumer.csproj", "{72502ABA-5574-4E9F-8AC4-4F5979B25377}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E0D80D7-A010-4780-9381-78EEC3F1B1AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E0D80D7-A010-4780-9381-78EEC3F1B1AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E0D80D7-A010-4780-9381-78EEC3F1B1AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E0D80D7-A010-4780-9381-78EEC3F1B1AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{767F1CC6-4068-4FFC-B389-9F1B72B81DA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{767F1CC6-4068-4FFC-B389-9F1B72B81DA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{767F1CC6-4068-4FFC-B389-9F1B72B81DA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{767F1CC6-4068-4FFC-B389-9F1B72B81DA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80E67494-63D4-4105-BA0B-67F2E5FF75B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80E67494-63D4-4105-BA0B-67F2E5FF75B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80E67494-63D4-4105-BA0B-67F2E5FF75B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80E67494-63D4-4105-BA0B-67F2E5FF75B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D352DA65-142E-4A49-ABAA-2AE702BC8A69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D352DA65-142E-4A49-ABAA-2AE702BC8A69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D352DA65-142E-4A49-ABAA-2AE702BC8A69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D352DA65-142E-4A49-ABAA-2AE702BC8A69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4705695-2AD9-4DCC-97EB-B69A4275EADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4705695-2AD9-4DCC-97EB-B69A4275EADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4705695-2AD9-4DCC-97EB-B69A4275EADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4705695-2AD9-4DCC-97EB-B69A4275EADD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DFC4769-4950-4DF0-A39C-045130661957}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DFC4769-4950-4DF0-A39C-045130661957}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DFC4769-4950-4DF0-A39C-045130661957}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DFC4769-4950-4DF0-A39C-045130661957}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72502ABA-5574-4E9F-8AC4-4F5979B25377}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72502ABA-5574-4E9F-8AC4-4F5979B25377}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72502ABA-5574-4E9F-8AC4-4F5979B25377}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72502ABA-5574-4E9F-8AC4-4F5979B25377}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7E0D80D7-A010-4780-9381-78EEC3F1B1AF} = {482B861E-A75D-4AB9-94A1-1EF5B3EFF36A}
+		{767F1CC6-4068-4FFC-B389-9F1B72B81DA0} = {27893BA7-6132-467E-80D5-7C9FF9C0A8A4}
+		{80E67494-63D4-4105-BA0B-67F2E5FF75B4} = {FC209AC6-7478-4992-89A7-4E1918B505F2}
+		{D352DA65-142E-4A49-ABAA-2AE702BC8A69} = {FC209AC6-7478-4992-89A7-4E1918B505F2}
+		{A4705695-2AD9-4DCC-97EB-B69A4275EADD} = {4C5BC88D-D5C9-4FA6-9189-36684803EBD6}
+		{9DFC4769-4950-4DF0-A39C-045130661957} = {B199CE3A-AA31-43C0-878F-CFAB33B71F62}
+		{72502ABA-5574-4E9F-8AC4-4F5979B25377} = {B199CE3A-AA31-43C0-878F-CFAB33B71F62}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {627BB19A-7A35-4FAE-9059-8BE1D1B4DBB9}
+	EndGlobalSection
+EndGlobal

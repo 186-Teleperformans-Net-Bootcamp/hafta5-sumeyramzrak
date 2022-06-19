@@ -1,0 +1,13 @@
+﻿global using System;
+global using System.Collections.Generic;
+global using System.Linq;
+global using System.Text;
+global using System.Threading.Tasks;
+global using Microsoft.EntityFrameworkCore;
+global using Teleperformance.Odev4.Data.Context;
+global using Teleperformance.Odev4.Common;
+global using Teleperformance.Odev4.Data;
+global using Teleperformance.Odev4.Services.Extensions;
+global using Microsoft.AspNetCore.Identity;
+global using Teleperformance.Odev4.Entity;
+global using System.ComponentModel.DataAnnotations.Schema;

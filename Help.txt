@@ -1,0 +1,3 @@
+Add-Migration [---Migration Name---] -P Teleperformance.Odev4.Data -C TlpDbContext -S Teleperformance.Odev4
+--------------
+Update-Database -P Teleperformance.Odev4.Data -Context TlpDbContext -S Teleperformance.Odev4

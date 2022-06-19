@@ -1,0 +1,5 @@
+4. hafta
+
+user iþlemleri için .net identity frameworkünü kullanýn.
+jwt tabanlý authentication sistemi yapýn
+hem inmemory hem de distributed caching kullanýn

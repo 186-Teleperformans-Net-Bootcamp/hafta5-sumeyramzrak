@@ -1,0 +1,12 @@
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance Ödev-Sümeyra\Teleperformance.Odev4\Teleperformance.Odev4.Common\bin\Release\net6.0\Teleperformance.Odev4.Common.deps.json
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance Ödev-Sümeyra\Teleperformance.Odev4\Teleperformance.Odev4.Common\bin\Release\net6.0\Teleperformance.Odev4.Common.dll
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance Ödev-Sümeyra\Teleperformance.Odev4\Teleperformance.Odev4.Common\bin\Release\net6.0\Teleperformance.Odev4.Common.pdb
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance Ödev-Sümeyra\Teleperformance.Odev4\Teleperformance.Odev4.Common\obj\Release\net6.0\Teleperformance.Odev4.Common.csproj.AssemblyReference.cache
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance Ödev-Sümeyra\Teleperformance.Odev4\Teleperformance.Odev4.Common\obj\Release\net6.0\Teleperformance.Odev4.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance Ödev-Sümeyra\Teleperformance.Odev4\Teleperformance.Odev4.Common\obj\Release\net6.0\Teleperformance.Odev4.Common.AssemblyInfoInputs.cache
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance Ödev-Sümeyra\Teleperformance.Odev4\Teleperformance.Odev4.Common\obj\Release\net6.0\Teleperformance.Odev4.Common.AssemblyInfo.cs
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance Ödev-Sümeyra\Teleperformance.Odev4\Teleperformance.Odev4.Common\obj\Release\net6.0\Teleperformance.Odev4.Common.csproj.CoreCompileInputs.cache
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance Ödev-Sümeyra\Teleperformance.Odev4\Teleperformance.Odev4.Common\obj\Release\net6.0\Teleperformance.Odev4.Common.dll
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance Ödev-Sümeyra\Teleperformance.Odev4\Teleperformance.Odev4.Common\obj\Release\net6.0\refint\Teleperformance.Odev4.Common.dll
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance Ödev-Sümeyra\Teleperformance.Odev4\Teleperformance.Odev4.Common\obj\Release\net6.0\Teleperformance.Odev4.Common.pdb
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance Ödev-Sümeyra\Teleperformance.Odev4\Teleperformance.Odev4.Common\obj\Release\net6.0\ref\Teleperformance.Odev4.Common.dll

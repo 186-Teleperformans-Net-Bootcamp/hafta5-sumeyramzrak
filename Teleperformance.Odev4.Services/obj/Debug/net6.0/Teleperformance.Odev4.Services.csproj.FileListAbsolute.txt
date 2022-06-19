@@ -1,0 +1,38 @@
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance.Odev4\Teleperformance.Odev4.Services\obj\Debug\net6.0\Teleperformance.Odev4.Services.csproj.AssemblyReference.cache
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance.Odev4\Teleperformance.Odev4.Services\obj\Debug\net6.0\Teleperformance.Odev4.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance.Odev4\Teleperformance.Odev4.Services\obj\Debug\net6.0\Teleperformance.Odev4.Services.AssemblyInfoInputs.cache
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance.Odev4\Teleperformance.Odev4.Services\obj\Debug\net6.0\Teleperformance.Odev4.Services.AssemblyInfo.cs
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance.Odev4\Teleperformance.Odev4.Services\obj\Debug\net6.0\Teleperformance.Odev4.Services.csproj.CoreCompileInputs.cache
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance.Odev4\Teleperformance.Odev4.Services\bin\Debug\net6.0\Teleperformance.Odev4.Services.deps.json
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance.Odev4\Teleperformance.Odev4.Services\bin\Debug\net6.0\Teleperformance.Odev4.Services.dll
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance.Odev4\Teleperformance.Odev4.Services\bin\Debug\net6.0\Teleperformance.Odev4.Services.pdb
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance.Odev4\Teleperformance.Odev4.Services\bin\Debug\net6.0\Teleperformance.Odev4.Common.dll
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance.Odev4\Teleperformance.Odev4.Services\bin\Debug\net6.0\Teleperformance.Odev4.Data.dll
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance.Odev4\Teleperformance.Odev4.Services\bin\Debug\net6.0\Teleperformance.Odev4.Entity.dll
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance.Odev4\Teleperformance.Odev4.Services\bin\Debug\net6.0\Teleperformance.Odev4.Common.pdb
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance.Odev4\Teleperformance.Odev4.Services\bin\Debug\net6.0\Teleperformance.Odev4.Data.pdb
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance.Odev4\Teleperformance.Odev4.Services\bin\Debug\net6.0\Teleperformance.Odev4.Entity.pdb
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance.Odev4\Teleperformance.Odev4.Services\obj\Debug\net6.0\Teleperformance.Odev4.Services.csproj.CopyComplete
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance.Odev4\Teleperformance.Odev4.Services\obj\Debug\net6.0\Teleperformance.Odev4.Services.dll
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance.Odev4\Teleperformance.Odev4.Services\obj\Debug\net6.0\refint\Teleperformance.Odev4.Services.dll
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance.Odev4\Teleperformance.Odev4.Services\obj\Debug\net6.0\Teleperformance.Odev4.Services.pdb
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance.Odev4\Teleperformance.Odev4.Services\obj\Debug\net6.0\ref\Teleperformance.Odev4.Services.dll
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance Ödev-Sümeyra\Teleperformance.Odev4\Teleperformance.Odev4.Services\bin\Debug\net6.0\Teleperformance.Odev4.Services.deps.json
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance Ödev-Sümeyra\Teleperformance.Odev4\Teleperformance.Odev4.Services\bin\Debug\net6.0\Teleperformance.Odev4.Services.dll
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance Ödev-Sümeyra\Teleperformance.Odev4\Teleperformance.Odev4.Services\bin\Debug\net6.0\Teleperformance.Odev4.Services.pdb
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance Ödev-Sümeyra\Teleperformance.Odev4\Teleperformance.Odev4.Services\bin\Debug\net6.0\Teleperformance.Odev4.Common.dll
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance Ödev-Sümeyra\Teleperformance.Odev4\Teleperformance.Odev4.Services\bin\Debug\net6.0\Teleperformance.Odev4.Data.dll
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance Ödev-Sümeyra\Teleperformance.Odev4\Teleperformance.Odev4.Services\bin\Debug\net6.0\Teleperformance.Odev4.Entity.dll
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance Ödev-Sümeyra\Teleperformance.Odev4\Teleperformance.Odev4.Services\bin\Debug\net6.0\Teleperformance.Odev4.Common.pdb
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance Ödev-Sümeyra\Teleperformance.Odev4\Teleperformance.Odev4.Services\bin\Debug\net6.0\Teleperformance.Odev4.Data.pdb
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance Ödev-Sümeyra\Teleperformance.Odev4\Teleperformance.Odev4.Services\bin\Debug\net6.0\Teleperformance.Odev4.Entity.pdb
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance Ödev-Sümeyra\Teleperformance.Odev4\Teleperformance.Odev4.Services\obj\Debug\net6.0\Teleperformance.Odev4.Services.csproj.AssemblyReference.cache
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance Ödev-Sümeyra\Teleperformance.Odev4\Teleperformance.Odev4.Services\obj\Debug\net6.0\Teleperformance.Odev4.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance Ödev-Sümeyra\Teleperformance.Odev4\Teleperformance.Odev4.Services\obj\Debug\net6.0\Teleperformance.Odev4.Services.AssemblyInfoInputs.cache
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance Ödev-Sümeyra\Teleperformance.Odev4\Teleperformance.Odev4.Services\obj\Debug\net6.0\Teleperformance.Odev4.Services.AssemblyInfo.cs
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance Ödev-Sümeyra\Teleperformance.Odev4\Teleperformance.Odev4.Services\obj\Debug\net6.0\Teleperformance.Odev4.Services.csproj.CoreCompileInputs.cache
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance Ödev-Sümeyra\Teleperformance.Odev4\Teleperformance.Odev4.Services\obj\Debug\net6.0\Teleperformance.Odev4.Services.csproj.CopyComplete
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance Ödev-Sümeyra\Teleperformance.Odev4\Teleperformance.Odev4.Services\obj\Debug\net6.0\Teleperformance.Odev4.Services.dll
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance Ödev-Sümeyra\Teleperformance.Odev4\Teleperformance.Odev4.Services\obj\Debug\net6.0\refint\Teleperformance.Odev4.Services.dll
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance Ödev-Sümeyra\Teleperformance.Odev4\Teleperformance.Odev4.Services\obj\Debug\net6.0\Teleperformance.Odev4.Services.pdb
+C:\Users\Sümeyra Mızrak\source\repos\Teleperformance Ödev-Sümeyra\Teleperformance.Odev4\Teleperformance.Odev4.Services\obj\Debug\net6.0\ref\Teleperformance.Odev4.Services.dll
